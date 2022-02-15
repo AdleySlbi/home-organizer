@@ -3,7 +3,7 @@
 
     
         <div class="header">
-            <span class="logo_company">HomeOrganizer</span>
+            <span class="logo_company">HO</span>
             <button class="hamburger">&#9776;</button>
             <button class="cross">&#735;</button>
         </div>

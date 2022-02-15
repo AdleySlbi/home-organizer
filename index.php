@@ -1,6 +1,7 @@
 <?php require_once('header.php');?>
-
+<!-- Menu -->
 <?php require_once('menu.php');?>
+<!-- Home page -->
 <?php require_once('home.php');?>
 <!-- Presentation -->
 <?php require_once('manifesto.php')?>
@@ -12,8 +13,5 @@
 <?php require_once("interventions.php")?>
 <!-- About -->
 <?php require_once('about.php')?>
-
+<!-- Footer -->
 <?php require_once('footer.php');?>
-
-
-
