@@ -3,7 +3,7 @@
 
     
         <div class="header">
-            <span class="logo_magnity">Magnity</span>
+            <span class="logo_company">HomeOrganizer</span>
             <button class="hamburger">&#9776;</button>
             <button class="cross">&#735;</button>
         </div>
@@ -16,16 +16,16 @@
                     <li>Accueil</li>
                 </a>
                 <a href="#manifesto">
-                    <li>Manifesto</li>
+                    <li>DeathCleaning</li>
                 </a>
                 <a href="#references">
-                    <li>Références</li>
+                    <li>Me Contacter</li>
                 </a>
                 <a href="#about">
-                    <li>À propos</li>
+                    <li>Interventions</li>
                 </a>
                 <a href="#contact">
-                    <li>Contact</li>
+                    <li>A propos</li>
                 </a>
             </ul>
         </div>

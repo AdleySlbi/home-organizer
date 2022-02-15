@@ -1,6 +1,6 @@
 <div id="section_footer">
     <div class="wrapper_footer">
-        <span class="logo_magnity">Magnity</span>
+        <span class="logo_company">Magnity</span>
         <div class="footer_menu">
             <h4>Menu</h4> 
             <a href="#accueil" class="link">Accueil</a>
