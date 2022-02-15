@@ -28,11 +28,11 @@
   text-align: center;
 }
 .section_home .wrapper_content_home .home_title {
-  font-size: 50px;
+  font-size: 3rem;
 }
 .section_home .wrapper_content_home .home_quote {
-  margin-top: 40px;
-  font-size: 35px;
+  margin-top: 280px;
+  font-size: 2.2rem;
   font-style: italic;
   font-family: "karla", sans-serif;
   color: #A23B19ff;
@@ -74,20 +74,6 @@
   max-width: 600px;
 }
 
-@media all and (min-width: 768px) {
-  .section_manifesto .wrapper_content .img_wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 20px 0;
-    width: 100%;
-  }
-  .section_manifesto .wrapper_content .img_wrapper img {
-    width: 100%;
-    max-width: 600px;
-  }
-}
 .section_transactions .wrapper_content .container_all_cards {
   width: 100%;
   margin-top: 10px;
@@ -395,12 +381,35 @@ h3 {
   color: #B47751ff;
 }
 
+.subtitle {
+  color: #B47751ff;
+  font-size: 1.2rem;
+  padding: 10px;
+}
+
 .link {
   text-decoration: none;
   color: #A23B19ff;
 }
 .link:hover {
   text-decoration: underline;
+}
+
+.cta {
+  width: 20%;
+  padding: 10px;
+  background-color: #F5DBB0ff;
+  border-radius: 10px;
+  border: 1px solid #CAA27Cff;
+}
+.cta span {
+  display: block;
+  text-align: center;
+}
+
+p {
+  font-size: 1rem;
+  padding: 10px;
 }
 
 .bold {
@@ -591,10 +600,11 @@ h3 {
 }
 .section_content .wrapper_content {
   max-width: 1024px;
-  padding: 10px;
+  padding: 30px;
   margin: 0 auto;
-  background-color: #D9DDDC4D;
+  background-color: #F5F6F3ff;
   border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 #map {

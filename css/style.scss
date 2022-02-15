@@ -5,8 +5,6 @@
 }
 
 // Variables : 
-// Anciennes variables à supprimer
-$grey: #D9DDDC4D;
 // Fin ancienne variables à supprimer
 
 $blanched-almond: #FCE9CBff;
@@ -14,7 +12,7 @@ $brown-sugar: #B47751ff;
 $chinese-red: #A23B19ff;
 $baby-powder: #F5F6F3ff;
 $camel: #CAA27Cff;
-$timberwolf: #D6D2CCff;
+$timberwokf: #D6D2CCff; // xxbaby-powder
 $wheat: #F5DBB0ff;
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
@@ -52,12 +50,35 @@ h3 {
     color: $brown-sugar;
 }
 
+.subtitle {
+    color: $brown-sugar;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
 .link {
     text-decoration: none; 
     color: $chinese-red;
     &:hover {
         text-decoration: underline;
     }
+}
+
+.cta {
+    width: 20%;
+    padding: 10px;
+    background-color: $wheat;
+    border-radius: 10px;
+    border: 1px solid $camel;
+    span {
+        display: block;
+        text-align: center;
+    }
+}
+
+p {
+    font-size: 1rem;
+    padding: 10px;
 }
 
 .bold {
@@ -324,10 +345,11 @@ h3 {
     // wrapper_content
     .wrapper_content {
         max-width: 1024px;
-        padding: 10px;
+        padding: 30px;
         margin: 0 auto;
-        background-color: $grey;
+        background-color: $baby-powder;
         border-radius: 5px;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     }
 }
 
