@@ -1,0 +1,28 @@
+.section_contact{
+    .wrapper_content{
+        .contact_wrapper_map{
+            #map {
+                margin-top: 10px;
+            }
+            a {
+                margin-top: 10px;
+                display: block;
+                font-style: italic; 
+                text-align: center;
+            }
+        }
+        .wrapper_contact_info{
+            margin: 15px 0;
+            h3 {
+                margin-top: 10px;
+            }
+            a {
+                display: block;
+                margin: 5px 0;
+                span {  
+                    color: #000 !important;
+                }
+            }
+        }
+    }
+}

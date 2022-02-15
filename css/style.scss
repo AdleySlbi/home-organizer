@@ -1,0 +1,327 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+// Variables : 
+// Anciennes variables à supprimer
+$grey: #D9DDDC4D;
+$bordeaux_magnity : #6d071a;
+// Fin ancienne variables à supprimer
+
+$blanched-almond: #FCE9CBff;
+$brown-sugar: #B47751ff;
+$chinese-red: #A23B19ff;
+$baby-powder: #F5F6F3ff;
+$camel: #CAA27Cff;
+$timberwolf: #D6D2CCff;
+$wheat: #F5DBB0ff;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// font-family: 'Karla', sans-serif;
+
+@import 'home', 'manifesto', 'transactions', 'about', 'contact', 'footer';
+
+h1 {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: $bordeaux_magnity;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: $bordeaux_magnity;   
+}
+
+.quote {
+    font-style: italic;
+    color: $bordeaux_magnity;
+}
+
+.link {
+    text-decoration: none;
+    color: $bordeaux_magnity;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.logo_magnity {
+    font-style: 'karla', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: $bordeaux_magnity;
+    text-transform: uppercase;
+}
+
+// Style pour le menu.php 
+.section_menu {
+    // padding: 0 30px;
+    border-bottom:1px solid #dddddd;
+    background-color: #fff;
+    position: relative;
+    z-index: 5;
+    .wrapper_content {
+        position: relative;
+        z-index: 5;
+    }
+    .hamburger {
+        background:none;
+        position:absolute;
+        top:0;
+        right:0;
+        line-height:45px;
+        padding:5px 15px 0px 15px;
+        color: $bordeaux_magnity;
+        border:0;
+        font-size:1.4em;
+        font-weight:bold;
+        cursor:pointer;
+        outline:none;
+        z-index:10000000000000;
+    }
+
+    .cross {
+        background:none;
+        position:absolute;
+        top:0px;
+        right:0;
+        padding:7px 15px 0px 15px;
+        color: $bordeaux_magnity;
+        border:0;
+        font-size:3em;
+        line-height:65px;
+        font-weight:bold;
+        cursor:pointer;
+        outline:none;
+        z-index:10000000000000;
+    }
+
+    .header {
+        width:100%; 
+        background:#ffffff; 
+        height:60px; 
+        line-height:60px;
+        position: relative;
+        z-index: 3;
+
+        span {
+            padding-left: 15px;
+            font-weight: 500 !important;
+            font-size: 30px;
+            a {
+                text-decoration: none;
+                color: #000;
+                text-transform: uppercase;
+                font-weight: 700;
+            }
+        }
+    }
+
+    .menu {
+        z-index:2;
+        font-weight:bold; 
+        // font-size:0.8em; 
+        width:100%; 
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-top: 60px;
+        background:#fff;  
+        text-align:center; 
+        // font-size:12px;
+        ul {
+            margin: 0; 
+            padding: 0; 
+            list-style-type: none; 
+            list-style-image: none;
+        }
+        a {
+            text-decoration:none; color: $bordeaux_magnity;
+            &:hover {
+                text-decoration:none; color: $bordeaux_magnity;
+            }
+            &:first-of-type {
+                li {
+                    border-top: #dddddd 1px solid;
+                }
+            }
+            li {
+                display: block;   
+                padding:15px 0 15px 0; 
+                border-bottom:#dddddd 1px solid;
+                text-transform: uppercase;
+                font-size: 500;
+                &:hover{
+                    display: block;    
+                    background:#fdfdfd; 
+                }
+            }
+        }
+    }
+}
+
+
+
+
+@media all and (min-width: 769px) {
+    // Style pour le menu.php
+    .section_menu {
+        padding: 0;
+        border-bottom:1px solid #dddddd;
+        // background-color: #d3d3d3;
+        // position: relative;
+        // z-index: 5;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        .wrapper_content {
+            max-width: 1024px;
+            width: 100%;
+            padding: 10px 0;
+            display: flex;
+            justify-content: space-between;
+            // position: relative;
+            // z-index: 5;
+        }
+        .hamburger {
+            // background:none;
+            // position:absolute;
+            // top:0;
+            // right:0;
+            // line-height:45px;
+            // padding:5px 15px 0px 15px;
+            // color:#999;
+            // border:0;
+            // font-size:1.4em;
+            // font-weight:bold;
+            // cursor:pointer;
+            // outline:none;
+            // z-index:10000000000000;
+            display: none;
+        }
+    
+        .cross {
+            // background:none;
+            // position:absolute;
+            // top:0px;
+            // right:0;
+            // padding:7px 15px 0px 15px;
+            // color:#999;
+            // border:0;
+            // font-size:3em;
+            // line-height:65px;
+            // font-weight:bold;
+            // cursor:pointer;
+            // outline:none;
+            // z-index:10000000000000;
+            display: none;
+        }
+    
+        .header {
+            width: 40%; 
+            background: none; 
+            height:60px; 
+            line-height:60px;
+            border-bottom:none;
+            // z-index: 3;
+
+            span {
+                font-weight: 500;
+                font-size: 40px;
+            //     padding-left: 15px;;
+            //     a {
+            //         text-decoration: none;
+            //         color: #000;
+            //         text-transform: uppercase;
+            //         font-weight: 700;
+            //     }
+            }
+        }
+    
+        .menu {
+            display: flex !important; 
+            // z-index:1000000;
+            // font-weight:bold; 
+            // font-size:0.8em; 
+            width: 60%; 
+            position: relative;
+            // top: 0;
+            // left: 0;
+            margin-top: 0;
+            background: none;
+            text-align: center; 
+            // font-size: 12px;
+
+            justify-content: space-around;
+            padding-right: none;
+            ul {
+                // margin: 0; 
+                // padding: 0; 
+                // list-style-type: none; 
+                // list-style-image: none;
+                width: 100%;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+            }
+            a {
+                // text-decoration:none; color:#666;
+                padding: 10px 15px;
+                width: 90px;
+                &:hover {
+                    // text-decoration:none; color:#666;
+                    padding: 10px 15px;
+                    background-color:#ffffff; 
+                }
+                &:first-of-type {
+                    li {
+                        border-top: none;
+                    }
+                }
+                li {
+                    display: inline;   
+                    padding: 0;
+                    border-bottom:none;
+                    // text-transform: uppercase;
+                    // font-size: 500;
+                    &:hover{
+                        display: inline;    
+                        background: none; 
+                        padding: 0; 
+                        border-bottom: none;
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+// Pour chaque partie qui a du content
+.section_content {
+    padding: 20px 5vw;
+    width: 90%;
+    background-color: #fff;
+    // wrapper_content
+    .wrapper_content {
+        max-width: 1024px;
+        padding: 10px;
+        margin: 0 auto;
+        background-color: $grey;
+        border-radius: 5px;
+    }
+}
+
+
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
