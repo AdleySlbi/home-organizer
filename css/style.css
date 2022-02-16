@@ -117,6 +117,33 @@
   transition: all 1s ease-out;
 }
 
+.section_interventions .wrapper_content .intervention-body {
+  display: block;
+  padding: 20px;
+}
+.section_interventions .wrapper_content .wrapper-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.section_interventions .wrapper_content .intervention-cta {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+.section_interventions .wrapper_content .intervention-cta .cta {
+  padding: 10px;
+  margin-top: 10px;
+}
+.section_interventions .wrapper_content .intervention-cta .cta span {
+  display: block;
+}
+.section_interventions .wrapper_content .intervention-cta .wrapper-infos a {
+  display: block;
+  padding: 10px;
+}
+
 .section_transactions .wrapper_content .container_all_cards {
   width: 100%;
   margin-top: 10px;

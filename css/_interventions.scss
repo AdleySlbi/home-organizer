@@ -1,0 +1,32 @@
+.section_interventions {
+    .wrapper_content {
+        .intervention-body {
+            display: block;
+            padding: 20px;
+        }
+        .wrapper-title {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .intervention-cta {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 20px;
+            .cta {
+                padding: 10px;
+                margin-top: 10px;
+                span {
+                    display: block;
+                }
+            }
+            .wrapper-infos {
+                a {
+                    display: block;
+                    padding: 10px;
+                } 
+            }
+        }
+    }
+}
