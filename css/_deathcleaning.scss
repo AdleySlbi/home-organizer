@@ -1,11 +1,66 @@
 .section_deathcleaning {
     .wrapper_content {
-        .one-card {
-            padding: 20px;
-            background-color: $baby-powder;
+        // .one-card {
+        //     padding: 20px;
+        //     background-color: $baby-powder;
+        //     border-radius: 5px;
+        //     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        //     border: 1px solid red;
+        // }
+        .wrapper-accordeon {
             border-radius: 5px;
-            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-            border: 1px solid red;
+            // border: 2px solid red;
+            overflow: hidden;
+            // transition: max-height 1s ease-in-out;
+            transition: visibility 0s, opacity 0.5s linear;
+
+            .accordion {
+                background-color: $blanched-almond;
+                border: 2px solid #fff;
+                cursor: pointer;
+                padding: 8px;
+                width: 100%;
+                text-align: left;
+                // border-radius: 5px;
+                outline: none;
+                transition: 0.4s;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                color: $chinese-red;
+                i {
+                    padding: 10px;
+                }
+            }
+            .active {
+                transition: all 1s ease-out; 
+            }
+    
+            /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+            .accordion:hover {
+                background-color: $camel;
+                transition: all 1s ease-out;
+
+            }
+      
+            /* Style the accordion panel. Note: hidden by default */
+            .panel {
+                padding: 20px;
+                // transition: 2s;
+                transition: all 1s ease-in-out;
+                background-color: $blanched-almond;
+                // opacity: 0;
+                // height: 0px;
+                height: auto;
+                display: none;
+                // visibility: hidden;
+                overflow: hidden;
+                p {
+                    // transition: 2s;
+                    transition: all 1s ease-out;
+                }
+            }
         }
+        
     }
 }
