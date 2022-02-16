@@ -1,27 +1,22 @@
 .section_contact{
     .wrapper_content{
-        .contact_wrapper_map{
-            #map {
-                margin-top: 10px;
+        .wrapper-contact {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 10px;
+            img {
+                width: 48%;
+
             }
-            a {
-                margin-top: 10px;
-                display: block;
-                font-style: italic; 
-                text-align: center;
-            }
-        }
-        .wrapper_contact_info{
-            margin: 15px 0;
-            h3 {
-                margin-top: 10px;
-            }
-            a {
-                display: block;
-                margin: 5px 0;
-                span {  
-                    color: #000 !important;
+            .wrapper-info {
+                width: 48%;
+                padding: 20px;
+                a {
+                    display: block;
+                    padding: 10px;
                 }
+                
             }
         }
     }

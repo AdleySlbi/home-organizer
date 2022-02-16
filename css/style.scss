@@ -45,6 +45,14 @@ h3 {
     padding: 10px;
 }
 
+h4 {
+    font-weight: 300;
+    text-transform: uppercase;
+    color: $chinese-red;
+    font-size: 1.3rem;
+    padding: 10px;
+}
+
 .quote {
     font-style: italic;
     color: $brown-sugar;
@@ -53,10 +61,10 @@ h3 {
 .subtitle {
     color: $brown-sugar;
     font-size: 1.2rem;
-    padding: 10px;
 }
 
 .link {
+    font-size: 1rem;
     text-decoration: none; 
     color: $chinese-red;
     &:hover {

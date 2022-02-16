@@ -294,27 +294,22 @@
     margin: 10px;
   }
 }
-.section_contact .wrapper_content .contact_wrapper_map #map {
-  margin-top: 10px;
+.section_contact .wrapper_content .wrapper-contact {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
 }
-.section_contact .wrapper_content .contact_wrapper_map a {
-  margin-top: 10px;
+.section_contact .wrapper_content .wrapper-contact img {
+  width: 48%;
+}
+.section_contact .wrapper_content .wrapper-contact .wrapper-info {
+  width: 48%;
+  padding: 20px;
+}
+.section_contact .wrapper_content .wrapper-contact .wrapper-info a {
   display: block;
-  font-style: italic;
-  text-align: center;
-}
-.section_contact .wrapper_content .wrapper_contact_info {
-  margin: 15px 0;
-}
-.section_contact .wrapper_content .wrapper_contact_info h3 {
-  margin-top: 10px;
-}
-.section_contact .wrapper_content .wrapper_contact_info a {
-  display: block;
-  margin: 5px 0;
-}
-.section_contact .wrapper_content .wrapper_contact_info a span {
-  color: #000 !important;
+  padding: 10px;
 }
 
 #section_footer {
@@ -419,6 +414,14 @@ h3 {
   padding: 10px;
 }
 
+h4 {
+  font-weight: 300;
+  text-transform: uppercase;
+  color: #A23B19ff;
+  font-size: 1.3rem;
+  padding: 10px;
+}
+
 .quote {
   font-style: italic;
   color: #B47751ff;
@@ -427,10 +430,10 @@ h3 {
 .subtitle {
   color: #B47751ff;
   font-size: 1.2rem;
-  padding: 10px;
 }
 
 .link {
+  font-size: 1rem;
   text-decoration: none;
   color: #A23B19ff;
 }
