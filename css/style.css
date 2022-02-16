@@ -74,6 +74,14 @@
   max-width: 600px;
 }
 
+.section_deathcleaning .wrapper_content .one-card {
+  padding: 20px;
+  background-color: #F5F6F3ff;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid red;
+}
+
 .section_transactions .wrapper_content .container_all_cards {
   width: 100%;
   margin-top: 10px;

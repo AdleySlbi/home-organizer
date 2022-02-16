@@ -1,25 +1,21 @@
-<section class="section_content section_manifesto" id=" manifesto">
+<section class="section_content section_deathcleaning" id="deathcleaning">
     <div class="wrapper_content">
         <h1>Le Death Cleaning, c'est quoi?</h1>
-
-        <div>
+        <div class="presentation-exergue">
             <p>
                 C’est un terme suédois «Döstädning». 
-                <br>    
+                    
                 <b>Dö</b> signifie <i>“death”</i> en anglais, mort en français.
-                <br>
+                
                 <b>Städning</b> signifie <i>“Cleaning”</i> en anglais, nettoyage en français.
-            <p>
-        </div>
-        <div>
+            </p>
             <p>
                 Qu'est-ce que le nettoyage de la mort suédois? Ce processus surprenant et revigorant d'élimination des effets personnels inutiles peut être entrepris à tout âge ou étape de la vie, mais doit être fait le plus tôt possible, avant que d'autres n'aient à le faire pour vous. Cette méthode concerne tous ceux qui veulent vivre une vie plus simple et plus satisfaisante. 
                 "Il s'agit d'une forme d'organisation permanente qui rend votre vie quotidienne plus fluide."
             </p>
         </div>
-        
-        <div class="wrapper_manifest">
-            <div class="manifest_one">
+            
+            <div class="one-card">
                 <h3>Son histoire</h3>
                 <p>
                 Le nettoyage de décès suédois est une méthode d'organisation et de désencombrement de votre maison avant votre décès afin d'alléger le fardeau de vos proches après votre décès. 
@@ -68,7 +64,7 @@
                     Certaines personnes ont fait remarquer que Swedish Death Cleaning est à l'opposé de la méthode de désencombrement de Marie Kondo, puisque l'une est axée sur votre famille, tandis que l'autre sur vos propres préférences. Mais il y a une chose que les deux méthodes ont en commun : elles vous aideront à vous débarrasser des rangements disgracieux dans votre maison. Dans les deux cas on utilise des boîtes de rangement, ou par ce que vous le valez bien, un joli petit coffre de rangement.
                 </p>
             </div>
-        </div>
+
         <!-- 
         <div class="img_wrapper">
             <img src="./img/schema_manifesto.png" alt="Schéma Manifesto">

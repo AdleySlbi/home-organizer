@@ -11,38 +11,8 @@
         <div class="cta">
             <!-- Créer un lien vers la réalisation d'un devis -->
             <span><b>Forfait :</b> 3h - 6h</span>
-            <span><i>Tarif sur Devis<i></span>
+            <span><i>Tarif sur Devis</i></span>
         </div>
         
-        <!-- <div class="wrapper_manifest">
-            <div class="manifest_one">
-                <p>
-                    Magnity ne travaille que pour des investisseurs : 
-                </p>
-                <ul>
-                    <li>indépendants</li>
-                    <li>différenciants</li>
-                    <li>engagés</li>
-                </ul>
-            </div>
-            <div class="manifest_one">
-                <p>Magnity origine des projets qui leur ressemblent : </p>
-                <ul>
-                    <li>directement</li>
-                    <li>précisément</li>
-                    <li>sélectivement</li>
-                </ul>
-            </div>
-            <div class="manifest_one">
-                <p>Magnity conçoit et rend possible des opérations en capital :</p>
-                <ul>
-                    <li>sur-mesure</li>
-                    <li>co-construites</li>
-                </ul>
-            </div>
-        </div>
-        <div class="img_wrapper">
-            <img src="./img/schema_manifesto.png" alt="Schéma Manifesto">
-        </div> -->
     </div>
 </section>
