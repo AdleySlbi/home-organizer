@@ -8,24 +8,67 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+            flex-wrap: wrap;
         }
         .intervention-cta {
             display: flex;
             justify-content: space-around;
             align-items: center;
+            flex-wrap: wrap;
             padding: 20px;
             .cta {
                 padding: 10px;
                 margin-top: 10px;
+                // width: 48%
                 span {
                     display: block;
                 }
             }
             .wrapper-infos {
+                // width: 48%
                 a {
                     display: block;
                     padding: 10px;
                 } 
+            }
+        }
+    }
+}
+
+@media all and (min-width: 769px) {
+    .section_interventions {
+        .wrapper_content {
+            .intervention-body {
+                display: block;
+                padding: 20px;
+            }
+            .wrapper-title {
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                // flex-wrap: wrap;
+            }
+            .intervention-cta {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: nowrap;
+                padding: 20px;
+                .cta {
+                    padding: 10px;
+                    margin-top: 10px;
+                    width: 48%;
+                    span {
+                        display: block;
+                    }
+                }
+                .wrapper-infos {
+                    width: 48%;
+                    a {
+                        display: block;
+                        padding: 10px;
+                    } 
+                }
             }
         }
     }

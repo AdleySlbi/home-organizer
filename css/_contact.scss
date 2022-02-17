@@ -1,23 +1,39 @@
 .section_contact{
     .wrapper_content{
         .wrapper-contact {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            padding: 10px;
-            img {
-                width: 48%;
-
-            }
             .wrapper-info {
-                width: 48%;
-                padding: 20px;
-                a {
-                    display: block;
+                .one-block-info {
+                    display: flex;
+                    justify-content: space-around;
+                    align-items: flex-start;
                     padding: 10px;
                 }
                 
+                .img-wrap {
+                    width: 48%;
+                    img {
+                        width: 100%;
+                    }
+                }
+                .content-wrap {
+                    width: 48%;
+                }
             }
+            
+            
+            
+            // .wrapper-info {
+            //     width: 48%;
+            //     padding: 20px;
+            //     .contact-me {
+
+            //     }
+            //     a {
+            //         display: block;
+            //         padding: 10px;
+            //     }
+                
+            // }
         }
     }
 }

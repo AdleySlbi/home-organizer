@@ -12,6 +12,5 @@
 <!-- Interventions -->
 <?php require_once("interventions.php")?>
 <!-- About -->
-<?php require_once('about.php')?>
 <!-- Footer -->
 <?php require_once('footer.php');?>
