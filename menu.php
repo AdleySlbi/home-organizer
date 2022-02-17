@@ -15,16 +15,16 @@
                 <a href="#accueil">
                     <li>Accueil</li>
                 </a>
-                <a href="#manifesto">
+                <a href="#death-cleaning">
                     <li>DeathCleaning</li>
                 </a>
-                <a href="#references">
+                <a href="#contact">
                     <li>Me Contacter</li>
                 </a>
                 <a href="#about">
                     <li>Interventions</li>
                 </a>
-                <a href="#contact">
+                <a href="#interventions">
                     <li>A propos</li>
                 </a>
             </ul>

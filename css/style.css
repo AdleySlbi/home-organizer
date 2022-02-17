@@ -44,36 +44,11 @@
     font-size: 50px;
   }
 }
-.section_manifesto .wrapper_content .wrapper_manifest {
-  width: 100%;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
+@media all and (min-width: 768px) {
+  .section_manifesto .wrapper_content .cta {
+    max-width: 20%;
+  }
 }
-.section_manifesto .wrapper_content .wrapper_manifest .manifest_one {
-  margin: 10px;
-  padding: 10px;
-  max-width: 300px;
-  background-color: #D9DDDC4D;
-  border-radius: 10px;
-}
-.section_manifesto .wrapper_content .wrapper_manifest .manifest_one ul {
-  margin-top: 10px;
-  padding-left: 40px;
-}
-.section_manifesto .wrapper_content .img_wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 20px 0;
-  width: 100%;
-}
-.section_manifesto .wrapper_content .img_wrapper img {
-  width: 100%;
-  max-width: 600px;
-}
-
 .section_deathcleaning .wrapper_content .wrapper-accordeon {
   border-radius: 5px;
   overflow: hidden;
@@ -358,26 +333,81 @@
 }
 .section_contact .wrapper_content .wrapper-contact .wrapper-info .one-block-info {
   display: flex;
-  justify-content: space-around;
-  align-items: flex-start;
+  flex-direction: column;
   padding: 10px;
 }
 .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap {
-  width: 48%;
+  width: 98%;
 }
 .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap img {
   width: 100%;
 }
+.section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content {
+  padding: 10px;
+}
+.section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content * {
+  padding: 10px 0;
+}
+.section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content .link {
+  display: block;
+}
+.section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content span {
+  display: block;
+}
+.section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content p .link {
+  display: inline;
+}
 .section_contact .wrapper_content .wrapper-contact .wrapper-info .content-wrap {
-  width: 48%;
+  width: 98%;
+}
+.section_contact .wrapper_content .wrapper-contact .wrapper-info .content-wrap a {
+  display: block;
+  padding: 10px;
 }
 
+@media all and (min-width: 768px) {
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .one-block-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 10px;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap {
+    width: 98%;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap img {
+    width: 100%;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content {
+    padding: 10px;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content * {
+    padding: 10px 0;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content .link {
+    display: block;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content span {
+    display: block;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .img-wrap .img-content p .link {
+    display: inline;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .content-wrap {
+    width: 98%;
+  }
+  .section_contact .wrapper_content .wrapper-contact .wrapper-info .content-wrap a {
+    display: block;
+    padding: 10px;
+  }
+}
 #section_footer {
-  background-color: #000;
+  background-color: #FCE9CBff;
   padding: 20px;
 }
 #section_footer .wrapper_footer {
-  color: #fff;
+  color: #A23B19ff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -405,11 +435,11 @@
   margin-top: 20px;
   text-align: center;
   display: block;
-  color: #E8E8E8;
+  color: #A23B19ff;
   font-size: 12px;
 }
 #section_footer #copyrights a {
-  color: #E8E8E8;
+  color: #A23B19ff;
 }
 
 @media all and (min-width: 768px) {
@@ -443,11 +473,7 @@
     margin-top: 20px;
     text-align: center;
     display: block;
-    color: #E8E8E8;
     font-size: 12px;
-  }
-  #section_footer #copyrights a {
-    color: #E8E8E8;
   }
 }
 h1 {
@@ -503,7 +529,7 @@ h4 {
 
 .cta {
   width: 100%;
-  padding: 10px;
+  padding: 10px 0;
   background-color: #F5DBB0ff;
   border-radius: 10px;
   border: 1px solid #CAA27Cff;

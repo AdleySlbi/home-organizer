@@ -1,8 +1,8 @@
 #section_footer{
-    background-color: #000;
+    background-color: $blanched-almond;
     padding: 20px;
     .wrapper_footer {
-        color: #fff;
+        color: $chinese-red;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -30,10 +30,10 @@
         margin-top: 20px;
         text-align: center;
         display: block;
-        color: #E8E8E8;
+        color: $chinese-red;
         font-size: 12px;
         a {
-            color: #E8E8E8;
+            color: $chinese-red;
         }
     }
 } 
@@ -74,11 +74,8 @@
             margin-top: 20px;
             text-align: center;
             display: block;
-            color: #E8E8E8;
+            // color: #E8E8E8;
             font-size: 12px;
-            a {
-                color: #E8E8E8;
-            }
         }
     } 
 }
