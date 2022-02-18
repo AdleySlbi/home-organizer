@@ -11,6 +11,7 @@
 <?php require_once("contact.php")?>
 <!-- Interventions -->
 <?php require_once("interventions.php")?>
-<!-- About -->
+<!-- Partenaires -->
+<?php require_once("partenaires.php")?>
 <!-- Footer -->
 <?php require_once('footer.php');?>

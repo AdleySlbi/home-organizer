@@ -154,6 +154,48 @@
     padding: 10px;
   }
 }
+.section_partenaires .wrapper_content h1 {
+  text-align: center;
+}
+.section_partenaires .wrapper_content .partenaires-slider {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+.section_partenaires .wrapper_content .partenaires-slider .partenaires-one {
+  width: 48%;
+  margin: 10px 0;
+}
+.section_partenaires .wrapper_content .partenaires-slider .partenaires-one a {
+  width: 100%;
+}
+.section_partenaires .wrapper_content .partenaires-slider .partenaires-one a img {
+  width: 100%;
+}
+
+@media all and (min-width: 769px) {
+  .section_partenaires .wrapper_content h1 {
+    text-align: center;
+  }
+  .section_partenaires .wrapper_content .partenaires-slider {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .section_partenaires .wrapper_content .partenaires-slider .partenaires-one {
+    width: 28%;
+    margin: 10px 0;
+  }
+  .section_partenaires .wrapper_content .partenaires-slider .partenaires-one a {
+    width: 100%;
+  }
+  .section_partenaires .wrapper_content .partenaires-slider .partenaires-one a img {
+    width: 100%;
+  }
+}
 .section_transactions .wrapper_content .container_all_cards {
   width: 100%;
   margin-top: 10px;
