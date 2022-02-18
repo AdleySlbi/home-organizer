@@ -13,11 +13,14 @@
             <h4>Contact</h4>
             <h3>Carmen Jean-Baptiste</h3>  
             <p><i>Experte Death Cleaning France</i></p>
+            <a href="https://feedutri.systeme.io/session-information-ff980223?sa=sa0003511267def1bfe3d95b72569e9d9409fa92239c" target="_blank" class="link" style="text-decoration:underline">
+                Boutique en ligne
+            </a>
             <a href="mailto:contact@homeorganiser.eu" class="link">
                 <i class="fa-solid fa-envelope-open-text"></i>      
                 Mail : contact@homeorganiser.eu
             </a>    
-            <a href="telto:+33622004397" class="link">
+            <a href="tel:+33622004397" class="link">
                 <i class="fa-solid fa-phone"></i>  
                 Téléphone : +33(0)6.00.43.97
             </a>

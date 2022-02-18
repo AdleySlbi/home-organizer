@@ -17,7 +17,7 @@
                             <i class="fa-solid fa-envelope-open-text"></i>      
                             Mail : contact@homeorganiser.eu
                             </a>
-                            <a href="telto:+33622004397" class="link">
+                            <a href="tel:+33622004397" class="link">
                             <i class="fa-solid fa-phone"></i>  
                             Téléphone : +33(0)6.00.43.97
                             </a>
@@ -48,6 +48,9 @@
                             <p>
                                 Ma vision des choses : Travailler beaucoup à faire ce que l’on aime !
                             </p>
+                            <a href="https://feedutri.systeme.io/session-information-ff980223?sa=sa0003511267def1bfe3d95b72569e9d9409fa92239c" target="_blank" class="link" style="text-decoration:underline">
+                                Retrouvez ma boutique en ligne en cliquant ici
+                            </a>
                         </div>
                     </div>
                     <div class="content-wrap">
@@ -90,7 +93,7 @@
                                 Vous trouverez ici un aperçu de ce que je fais et quelques articles sur mon travail : 
                                 <br>
                                 <br>
-                                Passion d'apprendre Août 2020 - <a target="_blank" href="https://passiondapprendre.com/Passion_d_Apprendre/m-Magazine-magazine" class="link-inline">Travailler beaucoup à faire ce l'on aime</a>
+                                Passion d'apprendre Août 2020 - <a target="_blank" href="./assets/passion-app-aout-2020.pdf" class="link-inline" >Travailler beaucoup à faire ce l'on aime</a>
                             </p>
                     </div>
                     

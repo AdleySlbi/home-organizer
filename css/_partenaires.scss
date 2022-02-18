@@ -27,7 +27,7 @@
     }
 }
 
-@media all and (min-width: 769px) {
+@media all and (min-width: 426px) {
     .section_partenaires {
         .wrapper_content {
             h1 {
@@ -38,10 +38,10 @@
                 flex-direction: row;
                 // align-items: center;
                 // justify-content: center;
-                justify-content: space-between;
+                justify-content: space-around;
                 flex-wrap: wrap;
                 .partenaires-one {
-                    width: 28%;
+                    width: 20%;
                     margin: 10px 0;
                     a {
                         width: 100%;

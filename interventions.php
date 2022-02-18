@@ -21,7 +21,7 @@
                     <i class="fa-solid fa-envelope-open-text"></i>      
                     Mail : contact@homeorganiser.eu
                 </a>
-                <a href="telto:+33622004397" class="link">
+                <a href="tel:+33622004397" class="link">
                     <i class="fa-solid fa-phone"></i>  
                     Téléphone : +33(0)6.00.43.97
                 </a>

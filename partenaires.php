@@ -5,7 +5,7 @@
         <div class="partenaires-slider">
             <div class="partenaires-one">
                 <a href="https://www.happyend.life/" target="_blank">
-                    <img src="./img/partenaires/logo-happy-end.jpeg" alt="Logo de l'entreprise Happy End">
+                    <img src="./img/partenaires/logo-happy-end.png" alt="Logo de l'entreprise Happy End">
                 </a>
                 <!-- <span></span> -->
             </div>
@@ -17,7 +17,7 @@
             </div>
             <div class="partenaires-one">
                 <a href="https://ffpo.eu/" target="_blank">
-                    <img src="./img/partenaires/logo-ffpo.jpeg" alt="Logo de la Fédération Française des Professionnels de l'Organisation">
+                    <img src="./img/partenaires/logo-ffpo.png" alt="Logo de la Fédération Française des Professionnels de l'Organisation">
                 </a>
                 <!-- <span></span> -->
             </div>
