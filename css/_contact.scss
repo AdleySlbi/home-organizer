@@ -42,9 +42,23 @@
                     width: 98%;
                     // padding: 20px;
                     // padding: 20px;
-                    a {
-                        display: block;
+                    // a {
+                    //     display: block;
+                    //     padding: 10px;
+                    // }
+                    p {
+                        .link {
+                            // display: inline;
+                            display: block;
+                            padding: 10px 0;
+                        }
+                    }
+                    .link-wrapper {
                         padding: 10px;
+                        .link {
+                            display: block;
+                            padding: 10px 0;
+                        }
                     }
                 }
             }
@@ -69,8 +83,8 @@
                     }
                     
                     .img-wrap {
-                        // width: 48%;
-                        width: 98%;
+                        width: 28%;
+                        // width: 98%;
                         img {
                             width: 100%;
                         }
@@ -96,14 +110,14 @@
                         }
                     }
                     .content-wrap {
-                        // width: 48%;
-                        width: 98%;
+                        width: 68%;
+                        // width: 98%;
                         // padding: 20px;
                         // padding: 20px;
-                        a {
-                            display: block;
-                            padding: 10px;
-                        }
+                        // a {
+                        //     display: block;
+                        //     padding: 10px;
+                        // }
                     }
                 }
             }

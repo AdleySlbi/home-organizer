@@ -1,6 +1,6 @@
 <div id="section_footer">
     <div class="wrapper_footer">
-        <span class="logo_company">Home <br> Horganizer</span>
+        <span class="logo_company">Home <br> Horganiser</span>
         <div class="footer_menu">
             <h4>Menu</h4> 
             <a href="#accueil" class="link">Accueil</a>

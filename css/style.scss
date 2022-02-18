@@ -72,6 +72,16 @@ h4 {
     }
 }
 
+.link-inline {
+    font-size: 1rem;
+    text-decoration: none; 
+    color: $chinese-red;
+    display: inline;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
 .cta {
     width: 100%;
     padding: 10px 0;
@@ -208,8 +218,21 @@ p {
     }
 }
 
-
-
+// Pour chaque partie qui a du content
+.section_content {
+    padding: 20px 5vw;
+    width: 90%;
+    background-color: #fff;
+    // wrapper_content
+    .wrapper_content {
+        max-width: 1024px;
+        padding: 10px;
+        margin: 0 auto;
+        background-color: $baby-powder;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+}
 
 @media all and (min-width: 769px) {
     // Style pour le menu.php
@@ -343,23 +366,26 @@ p {
         }
     }
 
+
+    // Pour chaque partie qui a du content
+    .section_content {
+        padding: 20px 5vw;
+        width: 90%;
+        background-color: #fff;
+        // wrapper_content
+        .wrapper_content {
+            max-width: 1024px;
+            padding: 30px;
+            margin: 0 auto;
+            background-color: $baby-powder;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        }
+    }
+
 }
 
-// Pour chaque partie qui a du content
-.section_content {
-    padding: 20px 5vw;
-    width: 90%;
-    background-color: #fff;
-    // wrapper_content
-    .wrapper_content {
-        max-width: 1024px;
-        padding: 30px;
-        margin: 0 auto;
-        background-color: $baby-powder;
-        border-radius: 5px;
-        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    }
-}
+
 
 
 #map {
