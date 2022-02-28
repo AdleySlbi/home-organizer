@@ -21,7 +21,7 @@
                 font-size: 3rem;
             }
             .home_quote {
-                margin-top: 280px;
+                margin-top: 170px;
                 font-size: 2.2rem;
                 font-family: 'karla', sans-serif;
                 color: $chinese-red;
@@ -31,6 +31,40 @@
         }
     }
 
+@media all and (min-width: 375px) {
+    .section_home {
+        width: 100%;
+        height: 60vh;
+        background-image: url('../img/cube-3d.jpg');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+            .wrapper_content_home {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                span {
+                    display: block; 
+                    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+                    text-align: center; 
+                }
+                .home_title {
+                    font-size: 3rem;
+                }
+                .home_quote {
+                    margin-top: 280px;
+                    font-size: 2.2rem;
+                    font-family: 'karla', sans-serif;
+                    color: $chinese-red;
+                    text-transform: uppercase;
+                    font-weight: bold;
+                }
+            }
+        }
+}
 
 @media all and (min-width: 768px) {
     .section_home {

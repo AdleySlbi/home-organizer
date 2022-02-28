@@ -12,6 +12,6 @@
 <!-- Interventions -->
 <?php require_once("interventions.php")?>
 <!-- Partenaires -->
-<?php require_once("partenaires.php")?>
+
 <!-- Footer -->
 <?php require_once('footer.php');?>

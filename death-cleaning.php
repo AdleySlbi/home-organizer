@@ -28,13 +28,13 @@
                 On utilise également le terme de nettoyage «pré mortem».  Mais le nettoyage suédois de la mort peut en fait offrir de réels avantages ici et maintenant, en vous aidant à décider quels articles sont vraiment importants et ce dont vous seriez prêt à vous séparer. Plutôt qu'une sombre tâche de fin de vie.
                 <br>
                 <br>
-                C’est en 2017, qu’apparaît le terme de Swedish Death Cleaning. Margaret Magnussen invente ce terme original dans son livre «The Gentle Art of Swedish Death Cleaning». L’auteur demande à ses lecteurs de considérer les êtres chers qui doivent passer au peigne fin vos biens après votre mort, en fournissant des suggestions pour rendre leur expérience aussi simple que possible.
+                C’est en 2017, qu’apparaît le terme de Swedish Death Cleaning. Margareta Magnussen invente ce terme original dans son livre «The Gentle Art of Swedish Death Cleaning». L’auteur demande à ses lecteurs de considérer les êtres chers qui doivent passer au peigne fin vos biens après votre mort, en fournissant des suggestions pour rendre leur expérience aussi simple que possible.
                 <br>
                 <br>
                 Réduire le fardeau de vos enfants et de vos proches, décider ce qui est important. Avec le Swedish Death Cleaning, vous l'aurez déjà fait pour eux en ne conservant que les objets que vous avez jugés essentiels. 
                 <br>
                 <br>
-                <i>"Parfois, vous vous rendez compte que vous pouvez à peine fermer vos tiroirs ou à peine fermer la porte de votre placard", écrit Margaret Magnussen. Lorsque cela se produit, il est définitivement temps de faire quelque chose, même si vous n'avez que la trentaine. Vous pourriez aussi appeler ce genre de nettoyage «döstädning», même si vous êtes peut-être à de très nombreuses années de mourir.  
+                <i>"Parfois, vous vous rendez compte que vous pouvez à peine fermer vos tiroirs ou à peine fermer la porte de votre placard", écrit Margareta Magnussen. Lorsque cela se produit, il est définitivement temps de faire quelque chose, même si vous n'avez que la trentaine. Vous pourriez aussi appeler ce genre de nettoyage «döstädning», même si vous êtes peut-être à de très nombreuses années de mourir.  
                 </i>   
                 </p>
             </div>
@@ -77,7 +77,7 @@
                     Ce n'est pas quelque chose à faire isolément. Vous devez communiquer clairement et simplement vos intentions à vos proches, en leur expliquant que l'intention est de rendre la vie de chacun plus facile et plus paisible. Ils peuvent encore réagir émotionnellement, alors donnez-leur le temps de s'adapter à ce processus et continuez à mettre l'accent sur les aspects positifs - un style de vie moins stressant et plus simple pendant que tout le monde est encore là, pas l'idée que quelqu'un qu'ils aiment meure.
                     <br>
                     <br>
-                    Une partie de l'approche de Margaret Magnusson consiste à accepter qu'il n'est pas nécessaire de conserver des choses pour préserver un souvenir, car les souvenirs existent indépendamment des choses matérielles. Pour la plupart
+                    Une partie de l'approche de Margareta Magnusson consiste à accepter qu'il n'est pas nécessaire de conserver des choses pour préserver un souvenir, car les souvenirs existent indépendamment des choses matérielles. Pour la plupart
                     <br>
                     <br>
                     Certaines personnes ont fait remarquer que Swedish Death Cleaning est à l'opposé de la méthode de désencombrement de Marie Kondo, puisque l'une est axée sur votre famille, tandis que l'autre sur vos propres préférences. Mais il y a une chose que les deux méthodes ont en commun : elles vous aideront à vous débarrasser des rangements disgracieux dans votre maison. Dans les deux cas on utilise des boîtes de rangement, ou par ce que vous le valez bien, un joli petit coffre de rangement.

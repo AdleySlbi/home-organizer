@@ -13,7 +13,7 @@
                 <!-- Créer un lien vers la réalisation d'un devis -->
                 <span>6 à 10 personnes</span>
                 <span>1h d'intervention </span>
-                <span>Gratuite & Dans vos locaux</span>    
+                <span>Gratuit & Dans vos locaux</span>    
                 
             </div>
             <div class="wrapper-infos">
@@ -23,7 +23,7 @@
                 </a>
                 <a href="tel:+33622004397" class="link">
                     <i class="fa-solid fa-phone"></i>  
-                    Téléphone : +33(0)6.00.43.97
+                    Téléphone : +33(0)6.22.00.43.97
                 </a>
             </div>
             

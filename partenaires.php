@@ -10,7 +10,7 @@
                 <!-- <span></span> -->
             </div>
             <div class="partenaires-one">
-                <a href="https://www.feedutri.com/" target="_blank">
+                <a href="https://feedutri.systeme.io/session-information-ff980223?sa=sa0003511267def1bfe3d95b72569e9d9409fa92239c" target="_blank">
                     <img src="./img/partenaires/logo-fee-du-tri.png" alt="Logo de l'entreprise Fée du Tri">
                 </a>
                 <!-- <span></span> -->
