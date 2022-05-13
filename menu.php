@@ -18,14 +18,11 @@
                 <a href="#deathcleaning">
                     <li>Death Cleaning</li>
                 </a>
-                <a href="#methodefive">
+                <a href="#methodefives">
                     <li>Méthode 5S</li>
                 </a>
                 <a href="#contact">
                     <li>Me Contacter</li>
-                </a>
-                <a href="#interventions">
-                    <li>Interventions</li>
                 </a>
             </ul>
         </div>

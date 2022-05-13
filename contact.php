@@ -60,7 +60,7 @@
                         <h1>Qui je suis</h1>
                         <h2>Ne jamais cesser de se former</h2>
                         <p>
-                        Ce qui m’anime, c’est de rester en éveil et de me laisser surprendre par de nouvelles connaissances qui ont un impact sur ma vie personnelle et professionnelle. Je travaille comme je suis. Aujourd’hui je parviens enfin à m’épanouir dans une activité qui me correspond. Ce que j’ai appris, je peux le transmettre aux particuliers que j’accompagne.
+                        Ce qui m’anime, c’est de rester en éveil et de me laisser surprendre par de nouvelles connaissances qui ont un impact sur ma vie personnelle et professionnelle. Je travaille comme je suis. Aujourd’hui je parviens enfin à m’épanouir dans une activité qui me correspond. Ce que j’ai appris, je peux le transmettre aux particuliers et aux entreprises que j’accompagne.
                         <a href="#" target="_blank" class="link">www.homeorganiser.eu</a>
                         Bien-être et développement personnel. Pour qui ? Pourquoi ? Après des années d’apprentissage et de formation. Je me suis rendu compte que, au-delà d’une ou de plusieurs nouvelles compétences acquises, je me sentais différente, voir transformée.
                         <br>
@@ -68,19 +68,20 @@
                         Ce constat je l’ai fait aussi bien à l’issue de formations ayant pour thème, le bien-être ou le développement personnel que dans d’autres domaines.
                         <br>
                         <br>
-                        Un programme de formation à l’échelle d’une vie, est-ce possible ? J’ai développé une soif d’apprendre qui est toujours intacte aujourd’hui. Les particuliers que j’accompagne, me font des compliments sur ma générosité. Je peux me déplacer dans toute la France. 
+                        Un programme de formation à l’échelle d’une vie, est-ce possible ? J’ai développé une soif d’apprendre qui est toujours intacte aujourd’hui. Les particuliers et les entreprises que j’accompagne, me font des compliments sur ma générosité. Je peux me déplacer dans toute la France. 
                         <br>
                         <br>
                         J’interviens à domicile, en qualité d’Home-Organiser - Experte en « Death cleaning » en France, pour désencombrer, repenser un système de rangement et d’organisation. Mes clients sont débordés par un rythme de vie trop intense (vie professionnelles, enfants…), maisons saturées d’objets et de meubles, parfois de vêtements et papiers inutiles.
                         <br>
                         <br>
-                        Ils vivent une période difficile de deuil ou de séparation. J’ai moi-même vécue plusieurs fois cette douloureuse expérience du deuil.
-                        <br>
-                        <br>
                         L’important est de le faire ensemble, d’aborder ensemble les notions de tri. Pour intervenir dans l’intimité des clients, il faut rester humble et être préparée à des réactions « inattendues ». Beaucoup de personnes ne soupçonnent pas assez la valeur sentimentale de certains objets.
                         <br>
                         <br>
-                        Nous commençons toujours par un état des lieux, ensuite, l’accompagnement peut durer plusieurs semaines. Il est plaisant de constater le changement d’attitude, proche de l’apaisement, au fur et à mesure des séances. 
+                        L’allègement de la charge mentale et matérielle à domicile, dans un but de mettre de l’ordre dans sa vie et vivre plus intensément.
+                        <br>
+                        <br>
+                        J’interviens en entreprise en qualité de d’Office Manager – consultante spécialisée dans la « méthode 5S ». Trier, classer, ranger de façon à retrouver rapidement les documents, matériels et outils, gagner de la place et gagner du temps. C’est trouver une meilleure organisation de travail.
+                        Le gain de temps et d’énergie, dans un but de gagner en qualité de vie professionnelle et de vie tout court. 
                         <br>
                         <br>
                         Ma vision des choses : Travailler beaucoup à faire ce que l’on aime !Citation inspirante : « Choisis un travail que tu aimes, et tu n’auras pas à travailler un seul jour de ta vie. » Confucius

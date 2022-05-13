@@ -80,6 +80,7 @@
 }
 @media all and (min-width: 768px) {
   .section_manifesto .wrapper_content .cta {
+    margin-left: auto;
     max-width: 20%;
   }
 }
@@ -395,12 +396,23 @@
     font-size: 12px;
   }
 }
+.section_methodefives .wrapper_content .methodefives_wrapper .fives_wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.section_methodefives .wrapper_content .methodefives_wrapper .fives_wrapper .one_fives {
+  display: block;
+  margin: 10px;
+}
 .section_methodefives .wrapper_content .cta {
   margin: 10px 0;
 }
 
 @media all and (min-width: 768px) {
   .section_methodefives .wrapper_content .cta {
+    margin-left: auto;
     max-width: 20%;
   }
 }

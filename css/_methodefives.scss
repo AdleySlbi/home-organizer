@@ -1,5 +1,18 @@
 .section_methodefives {
     .wrapper_content {
+        .methodefives_wrapper {
+            .fives_wrapper {
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                
+                flex-wrap: wrap;
+                .one_fives {
+                    display: block;
+                    margin: 10px;
+                }
+            }
+        }
         .cta {
             margin: 10px 0;
         }
@@ -10,6 +23,7 @@
     .section_methodefives {
         .wrapper_content {
             .cta {
+                margin-left: auto;
                 max-width: 20%;
             }
         }

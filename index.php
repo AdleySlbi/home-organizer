@@ -4,7 +4,6 @@
 <!-- Home page -->
 <?php require_once('home.php');?>
 <!-- Home page -->
-<?php require_once('forfait.php');?>
 <!-- Presentation -->
 <?php require_once('manifesto.php')?>
 <!-- Presentation -->
