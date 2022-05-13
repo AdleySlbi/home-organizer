@@ -11,11 +11,10 @@
         <br>
         Réorganisons et mettons en place des solutions de rangement personnalisées. Je partage avec vous mes techniques et ma méthode pour que le rangement soit pérenne quelles que soient les pièces de votre habitation.</p>
         
-        <div class="cta">
-            <!-- Créer un lien vers la réalisation d'un devis -->
+        <!-- <div class="cta">
             <span><b>Forfait :</b> 3h - 6h</span>
             <span><i>Tarif sur Devis</i></span>
-        </div>
+        </div> -->
         
     </div>
 </section>

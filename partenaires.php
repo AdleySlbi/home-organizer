@@ -15,12 +15,12 @@
                 </a>
                 <span>La Formation recommandée pour devenir Home Organiser</span>
             </div>
-            <div class="partenaires-one">
+            <!-- <div class="partenaires-one">
                 <a href="https://ffpo.eu/" target="_blank">
                     <img src="./img/partenaires/logo-ffpo.png" alt="Logo de la Fédération Française des Professionnels de l'Organisation">
                 </a>
                 <span>La Fédération des Professionnels de l’organisation</span>
-            </div>
+            </div> -->
             <!-- <div class="partenaires-one">
                 <a href="https://www.happyend.life/" target="_blank">
                     <img src="./img/partenaires/logo-happy-end.jpeg" alt="Logo de l'entreprise Happy End">
