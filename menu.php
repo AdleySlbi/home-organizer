@@ -18,6 +18,9 @@
                 <a href="#deathcleaning">
                     <li>Death Cleaning</li>
                 </a>
+                <a href="#methodefive">
+                    <li>Méthode 5S</li>
+                </a>
                 <a href="#contact">
                     <li>Me Contacter</li>
                 </a>

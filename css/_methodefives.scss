@@ -1,0 +1,17 @@
+.section_methodefives {
+    .wrapper_content {
+        .cta {
+            margin: 10px 0;
+        }
+    }
+}
+
+@media all and (min-width: 768px) {
+    .section_methodefives {
+        .wrapper_content {
+            .cta {
+                max-width: 20%;
+            }
+        }
+    }
+}

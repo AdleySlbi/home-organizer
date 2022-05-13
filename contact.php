@@ -9,7 +9,10 @@
                     <div class="content-wrap">
                         <h1>Me contacter</h1>
                         <p class="subtitle">
-                            Je suis à vos côtés pour anticiper, organiser, accompagner, pour que le changement soit le plus serein possible.
+                        Spécialiste méthode 5S.
+                        <br>
+                        <br>     
+                        Je suis à vos côtés pour anticiper, organiser, accompagner, pour que le changement soit le plus serein possible.
                         </p>
                         <h2>Pour ces prestations, <br> contactez moi</h2>
                         <div class="link-wrapper">
