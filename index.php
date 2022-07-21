@@ -6,8 +6,7 @@
 <!-- Home page -->
 <!-- Presentation -->
 <?php require_once('manifesto.php')?>
-<!-- Presentation -->
-<?php require_once('methodefives.php')?>
+<!-- Presentation methodefives.php -->
 <!-- DeathCleaning presentation -->
 <?php require_once("death-cleaning.php")?>
 <!-- Me contacter  -->
