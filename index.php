@@ -6,12 +6,13 @@
 <!-- Home page -->
 <!-- Presentation -->
 <?php require_once('manifesto.php')?>
-<!-- Presentation -->
-<?php require_once('methodefives.php')?>
+<!-- Presentation methodefives.php -->
 <!-- DeathCleaning presentation -->
 <?php require_once("death-cleaning.php")?>
 <!-- Me contacter  -->
 <?php require_once("contact.php")?>
+<!-- Rubrique  -->
+<?php require_once("rubrique.php")?>
 <!-- Interventions -->
 <!-- Partenaires -->
 <?php require_once("partenaires.php")?>

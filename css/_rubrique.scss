@@ -1,0 +1,44 @@
+.section_content {
+    .wrapper_content {
+        .articles-wrapper {
+            .one-article {
+                padding: 10px;
+                a {
+                    display: block;
+                }
+            }
+        }
+    }
+}
+
+@media all and (min-width: 769px) {
+    .section_content {
+        .wrapper_content {
+            .articles-wrapper {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-around;
+                align-items: center;
+                .one-article {
+                    width: 30%;
+                    padding: 10px;
+                    a {
+                        display: block;
+                        text-align: center;
+                    }
+                }
+            }
+        }
+    }
+
+    .section_rubrique {
+        .wrapper_content {
+            h1 {
+                text-align: center;
+            }
+            p {
+                text-align: center;
+            } 
+        }
+    }
+}
