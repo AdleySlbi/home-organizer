@@ -1,6 +1,6 @@
 <section class="section_content section_manifesto" id=" manifesto">
     <div class="wrapper_content">
-        <h1>Home Organiser - <i> Particuliers</i> </h1>
+        <h1>Home Organiser</h1>
         <h2>Experte Death Cleaning en France</h2>
         <!-- <span class="subtitle">En France</span> -->
         <p>Le <b>Death Cleaning</b> consiste à retirer les objets dont vous n'avez plus besoin ou que vous ne voulez plus dans votre maison, pour épargner à vos proches la tâche de s'en occuper lorsque vous êtes parti. 

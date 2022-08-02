@@ -12,7 +12,7 @@
             <h4>Contact</h4>
             <h3>Carmen Jean-Baptiste</h3>  
             <p><i>Experte Death Cleaning France</i></p>
-            <p><i>Spécialisée en méthode 5S</i></p>
+            <!-- <p><i>Spécialisée en méthode 5S</i></p> -->
             <!-- <a href="https://feedutri.systeme.io/session-information-ff980223?sa=sa0003511267def1bfe3d95b72569e9d9409fa92239c" target="_blank" class="link" style="text-decoration:underline">
                 Boutique en ligne
             </a> -->

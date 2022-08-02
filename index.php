@@ -11,6 +11,8 @@
 <?php require_once("death-cleaning.php")?>
 <!-- Me contacter  -->
 <?php require_once("contact.php")?>
+<!-- Rubrique  -->
+<?php require_once("rubrique.php")?>
 <!-- Interventions -->
 <!-- Partenaires -->
 <?php require_once("partenaires.php")?>
